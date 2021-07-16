@@ -12,10 +12,6 @@
 - [Cosaliency Detection and Region-of-Interest Extraction via Manifold Ranking and MRF in Remote Sensing Images, TGRS, 2021](https://ieeexplore.ieee.org/abstract/document/9442923/)
 <br>
 
-<a href="https://github.com/hanlinwu/TGRS-CSMRF"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanlinwu&repo=TGRS-CSMRF&cache_seconds=10&theme=buefy" alt="" /></a>
-<a href="https://github.com/hanlinwu/SG-FBGAN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanlinwu&repo=SG-FBGAN&cache_seconds=10&theme=buefy" alt="" /></a>
-<br>
-
 ![](https://github-readme-stats.vercel.app/api?username=hanlinwu&show_icons=true&hide=contribs,issues&cache_seconds=86400&theme=default)
 
 
